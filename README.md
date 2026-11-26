@@ -3,7 +3,7 @@
 > Weinan E（鄂维南）、Tiejun Li（李铁军）、Eric Vanden-Eijnden  
 > *Applied Stochastic Analysis*, Graduate Studies in Mathematics, Vol. 199, AMS
 >
-> 提炼口径：只保留**定义—定理—公式—方法**的主干链条，以及章与章之间的逻辑接口；习题、证明细节、文献注记、数值实验从略。目标是一万汉字以内能通读一遍、 thereafter 当手册查。
+> 提炼口径：只保留**定义—定理—公式—方法**的主干链条，以及章与章之间的逻辑接口；习题、证明细节、文献注记、数值实验从略。目标是一万汉字以内能通读一遍、之后当手册查。
 
 ---
 
